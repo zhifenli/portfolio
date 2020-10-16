@@ -1,0 +1,13 @@
+body {
+    font-family: 'Saira', sans-serif; 
+}
+body {
+    background-image: url('img/Untitled.png');
+    background-repeat: no-repeat;
+  background-size: cover;
+  }
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
