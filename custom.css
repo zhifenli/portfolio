@@ -1,5 +1,6 @@
 body {
     font-family: 'Saira', sans-serif; 
+    color: #214001;
 }
 body {
     background-image: url('img/Untitled.png');
@@ -77,3 +78,16 @@ body {
   footer ul li:nth-child(5) a:hover .fab {
     color: #e4405f;
   }
+.bg {
+  background-color: #EAF2AE
+}
+a {
+  color: #214001;
+}
+a:hover {
+  color: #EAF2AE !important;
+  background-color: #214001 !important;
+}
+.content {
+  display: inline-block;
+}
