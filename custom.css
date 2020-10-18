@@ -1,11 +1,9 @@
 body {
     font-family: 'Saira', sans-serif; 
     color: #214001;
-}
-body {
     background-image: url('img/Untitled.png');
     background-repeat: no-repeat;
-  background-size: cover;
+    background-size: cover;
   }
   img {
     display: block;
@@ -90,4 +88,14 @@ a:hover {
 }
 .content {
   display: inline-block;
+}
+video{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+button {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
